@@ -1,0 +1,16 @@
+{
+    "id": "gardening",
+    "scrapeDir": "scrapes/garden/gardening",
+    "rootURL": "https://garden.org",
+    "forumURL": "/forums/view/gardening/",
+    "paginationClass": "page_chunk",
+    "pageActiveClass": "PageActive",
+    "pageInactiveClass": "PageInactive",
+    "threadsTableSelector": ".pretty-table tbody tr",
+    "threadTitleSelector": "td:nth-child(2)",
+    "threadURLSelector": "td a",
+    "threadLastReplySelector": "td:nth-child(3)",
+    "threadReplyCountSelector": "td:nth-child(4)",
+    "threadOffset": 20
+}
+
